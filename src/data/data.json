@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "pepole": 4,
+    "name": "Car",
+    "amount": "67", 
+    "image": "https://t4.ftcdn.net/jpg/03/32/56/67/360_F_332566713_q0QLBQ0BWkG5ed7DGRiuFIjvZNwEL9k2.jpg"
+  }, {
+    "id": 2,
+    "pepole": 2,
+    "name": "Bike",
+    "amount": "70", 
+    "image": "https://images.vexels.com/media/users/3/152376/isolated/preview/c5f4390c69b1c5113cec24502b46cc8e-classic-motorcycle-icon-by-vexels.png"
+  }, {
+    "id": 3,
+    "pepole": 10,
+    "name": "Bus",
+    "amount": "100", 
+    "image": "https://png.pngtree.com/element_our/png_detail/20181205/bus-vector-icon-png_259676.jpg"
+  }, {
+    "id": 4,
+    "pepole": 8,
+    "name": "Train",
+    "amount": "120", 
+    "image": "https://cdn5.vectorstock.com/i/thumb-large/82/19/green-cargo-or-passenger-railway-train-locomotive-vector-19858219.jpg"
+  }]
