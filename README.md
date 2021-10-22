@@ -7,6 +7,6 @@ Html, brootstarp, Css, JavaScript, React etc
 ### Assigment
 date: 20-03-2021 assignment(9)
 ### Live Site Link
-https://nilphamri-riders.web.app/home
+https://nilphamri-riders.web.app/
 ### GitHub Link
 https://github.com/Porgramming-Hero-web-course/react-auth-Lightsas
